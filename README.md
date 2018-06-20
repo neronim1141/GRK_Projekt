@@ -34,4 +34,4 @@
 Każda rybka porusza się po krzywej, z różnymi prędkościami, oraz różnym odstępem od niej.
 Każda rybka ma nałożoną na sobą proceduralną teksturę, rysującą na niej paski.
 Scenę można zatrzymać w każdym momencie, po powrocie do ruchu, rybki poruszają się znowu, od kolejnej pozycji.
-![alt text](https://github.com/neronim1141/GRK_Projekt/Pokaz.gif "element pokazowy")
+<img src ="https://github.com/neronim1141/GRK_Projekt/blob/master/Pokaz.gif" width="100%">
