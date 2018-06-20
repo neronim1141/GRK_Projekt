@@ -15,25 +15,25 @@
 <dt>Założeniem projektu jest ławica ryb, pływająca wokół starożytnych ruin.  </dt>
 <dd>Na tło wykorzystano obiekt kuli, z nałożoną proceduralną teksturą, generowaną za pomocą Fractal Brownian Motion, który jest przyczepiony do pozycji kamery i </dd><dd>razem z nią się porusza.</dd>
 </dl>
-<dl>
+
   
 ---
 
 <dt>Kamerą można poruszać:<dt>
-<dd>
-* "w"-do przodu widoku;
-* "s" - do tyłu widoku,
-*"a" - w prawo widoku,
-* "d" - w lewo widoku,
-* "r" - w gore widoku,
-* "f" - w dol widoku,
-* "q" - obrót w lewo,
-* "e" - obrot w prawo,
-* "t" - tryb "turbo"(przyszpieszenie poruszania),
-* "p" - zatrzymaniue ruchu rybek,
-* "l" - wyświetlenie w konsoli lokacji kamery
-<dd>
-</dl>
+
++ "w"-do przodu widoku;
++ "s" - do tyłu widoku,
++ "a" - w prawo widoku,
++ "d" - w lewo widoku,
++ "r" - w gore widoku,
++ "f" - w dol widoku,
++ "q" - obrót w lewo,
++ "e" - obrot w prawo,
++ "t" - tryb "turbo"(przyszpieszenie poruszania),
++ "p" - zatrzymaniue ruchu rybek,
++ "l" - wyświetlenie w konsoli lokacji kamery
+
+
 
 ---
 
