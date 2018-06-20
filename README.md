@@ -14,7 +14,7 @@
 <dd>Na tło wykorzystano obiekt kuli, z nałożoną proceduralną teksturą, generowaną za pomocą Fractal Brownian Motion, który jest przyczepiony do pozycji kamery i </dd><dd>razem z nią się porusza.</dd>
 </dl>
 <dl>
-------
+---
 <dt>Kamerą można poruszać:<dt>
 <dd>
 * "w"-do przodu widoku;
@@ -30,7 +30,7 @@
 * "l" - wyświetlenie w konsoli lokacji kamery
 <dd>
 </dl>
-------
+---
 Każda rybka porusza się po krzywej, z różnymi prędkościami, oraz różnym odstępem od niej.
 Każda rybka ma nałożoną na sobą proceduralną teksturę, rysującą na niej paski.
 Scenę można zatrzymać w każdym momencie, po powrocie do ruchu, rybki poruszają się znowu, od kolejnej pozycji.
